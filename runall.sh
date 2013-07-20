@@ -45,3 +45,5 @@ LANG=C
 
 #/bin/sleep $RRD_WAIT
 #/root/rrd/roundtrip.pl
+
+/root/rrd/push_ftp.sh
